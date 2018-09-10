@@ -10,6 +10,8 @@ import UIKit
 
 // Add comment
 
+// Add second comment
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
